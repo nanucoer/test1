@@ -1,5 +1,3 @@
-package IntArray;
-
 import java.util.Arrays;
 
 public class BubbleSort {
