@@ -1,5 +1,3 @@
-package IntArray;
-
 public class ArrayPrograms {
     int arr[]=new int[]{101,99,50,201,304,401,199,201,99,39};
     public void duplicate() {
